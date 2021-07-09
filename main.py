@@ -7,3 +7,5 @@ while (True):
 	else:
 		print(f"Your Bill total is {sum}. Thanks for shopping with us")
 		break
+
+		
